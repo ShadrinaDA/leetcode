@@ -7,8 +7,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/ShadrinaDA/leetcode/tree/master/1755-defuse-the-bomb) |
+| [1972-rotating-the-box](https://github.com/ShadrinaDA/leetcode/tree/master/1972-rotating-the-box) |
 ## Sliding Window
 |  |
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/ShadrinaDA/leetcode/tree/master/1755-defuse-the-bomb) |
+## Two Pointers
+|  |
+| ------- |
+| [1972-rotating-the-box](https://github.com/ShadrinaDA/leetcode/tree/master/1972-rotating-the-box) |
+## Matrix
+|  |
+| ------- |
+| [1972-rotating-the-box](https://github.com/ShadrinaDA/leetcode/tree/master/1972-rotating-the-box) |
 <!---LeetCode Topics End-->

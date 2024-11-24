@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/ShadrinaDA/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1972-rotating-the-box](https://github.com/ShadrinaDA/leetcode/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/ShadrinaDA/leetcode/tree/master/2089-maximum-matrix-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -20,4 +21,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1972-rotating-the-box](https://github.com/ShadrinaDA/leetcode/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/ShadrinaDA/leetcode/tree/master/2089-maximum-matrix-sum) |
+## Greedy
+|  |
+| ------- |
+| [2089-maximum-matrix-sum](https://github.com/ShadrinaDA/leetcode/tree/master/2089-maximum-matrix-sum) |
 <!---LeetCode Topics End-->

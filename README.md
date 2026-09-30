@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-maximum-matrix-sum](https://github.com/ShadrinaDA/leetcode/tree/master/2089-maximum-matrix-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ShadrinaDA/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->

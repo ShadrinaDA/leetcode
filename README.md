@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/ShadrinaDA/leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/ShadrinaDA/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ShadrinaDA/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ShadrinaDA/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sliding Window
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ShadrinaDA/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShadrinaDA/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2089-maximum-matrix-sum](https://github.com/ShadrinaDA/leetcode/tree/master/2089-maximum-matrix-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ShadrinaDA/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/ShadrinaDA/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ShadrinaDA/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Sorting
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ShadrinaDA/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
